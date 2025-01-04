@@ -2,7 +2,6 @@
 
 The **Pomodoro Timer Application** is a productivity tool designed to implement the Pomodoro Technique. This time management method alternates focused work sessions with short breaks to boost productivity and maintain mental clarity. The application is built using Python's `tkinter` library and features an intuitive graphical user interface.
 
----
 
 ## 🚀 Features
 - **Customizable Work and Break Intervals:**
@@ -13,7 +12,6 @@ The **Pomodoro Timer Application** is a productivity tool designed to implement 
 - **Session Tracking:** Completed work sessions are visually represented with checkmarks.
 - **Reset Functionality:** Easily reset the timer and session tracking with a single click.
 
----
 
 ## 🎮 How to Use
 1. Launch the application by running the `main.py` file.
@@ -22,7 +20,6 @@ The **Pomodoro Timer Application** is a productivity tool designed to implement 
 4. After four work sessions, the timer will initiate a 20-minute long break.
 5. Click the **Reset** button to reset the timer and progress.
 
----
 
 ## 📷 Screenshots
 ### Main Timer Interface:
